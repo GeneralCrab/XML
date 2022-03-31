@@ -1,0 +1,11 @@
+<BUG>
+  <Bug_ID> 1   </Bug_ID> 
+  <Bug_summary> In Telegram web app in chat scrolling by holding 'page up' button stops as soon as there is a new portion of history loaded </Bug_summary>
+  <Testing_enviroment> Windows 10, Chrome 100.0.4896.60 </Testing_enviroment> 
+  <Bug_Preority> low  </Bug_Preority>
+  <Bug_Severity> low  </Bug_Severity>
+  <Steps_to_reproduce> 
+                      <Step_1> Open Telegram web app and open chat with a history    </Step_1>
+                      <Step_2> Press 'page up' button until scrolling stops   </Step_2> 
+  </Steps_to_reproduce> 
+</BUG>
